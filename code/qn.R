@@ -1,0 +1,5 @@
+library(limma)
+data <- read.table("tmp.all")
+dataN <- normalizeBetweenArrays(data)
+write.table(dataN, "tmp.all.N", quote=F, col.names=F, row.names=F, na="nan", sep='\t')
+q(save='no')

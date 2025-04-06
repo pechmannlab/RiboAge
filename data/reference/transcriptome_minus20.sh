@@ -1,0 +1,1 @@
+awk '(substr($0, 0, 1)==">"){print"#", $0, "#"}(substr($0,0,1)!=">"){print }' orf_coding.fasta | tr -d '\n' | tr '#' '\n' | awk '(substr($0,0,2)==" >"){print substr($0,2,length($0))}(substr($0,0,2)!=" >"){print substr($0, 20, length($0)-20)}' > orf_coding_minus20.fasta

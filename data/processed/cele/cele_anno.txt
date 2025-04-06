@@ -1,0 +1,9 @@
+Run	BioSample	AGE	Experiment	genotype	GEO_Accession	Organism	source_name	strain	tissue/cell_type
+SRR12055094	SAMN15326432	1	SRX8583513	wild-type	GSM4627275	Caenorhabditis elegans	Worms	N2	Whole animals
+SRR12055095	SAMN15326430	1	SRX8583514	wild-type	GSM4627276	Caenorhabditis elegans	Worms	N2	Whole animals
+SRR12055096	SAMN15326429	6	SRX8583515	wild-type	GSM4627277	Caenorhabditis elegans	Worms	N2	Whole animals
+SRR12055097	SAMN15326429	6	SRX8583515	wild-type	GSM4627277	Caenorhabditis elegans	Worms	N2	Whole animals
+SRR12055098	SAMN15326426	12	SRX8583516	wild-type	GSM4627278	Caenorhabditis elegans	Worms	N2	Whole animals
+SRR12055099	SAMN15326426	12	SRX8583516	wild-type	GSM4627278	Caenorhabditis elegans	Worms	N2	Whole animals
+SRR12055100	SAMN15326426	12	SRX8583516	wild-type	GSM4627278	Caenorhabditis elegans	Worms	N2	Whole animals
+SRR12055101	SAMN15326425	12	SRX8583517	wild-type	GSM4627279	Caenorhabditis elegans	Worms	N2	Whole animals

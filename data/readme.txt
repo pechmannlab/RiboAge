@@ -1,0 +1,1 @@
+Included are all files that are within the Github limit for file sizes. Riboseq input files have to be downloaded from NCBI GEO. All additional files can be generated with the code provided, or alternatively also obtained directly from the author. Some files are compressed to reduce their size; all files should be unzipped.  

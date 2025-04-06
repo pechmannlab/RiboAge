@@ -1,0 +1,14 @@
+Run	BioSample	AGE	Experiment	genotype	GEO_Accession	Organism	source_name	strain	tissue/cell_type
+SRR12055102	SAMN15326423	0	SRX8583518	wild-type	GSM4627280	Saccharomyces cerevisiae	Yeast	BY4741	Whole cells
+SRR12055103	SAMN15326423	0	SRX8583518	wild-type	GSM4627280	Saccharomyces cerevisiae	Yeast	BY4741	Whole cells
+SRR12055104	SAMN15326421	0	SRX8583519	wild-type	GSM4627281	Saccharomyces cerevisiae	Yeast	BY4741	Whole cells
+SRR12055105	SAMN15326421	0	SRX8583519	wild-type	GSM4627281	Saccharomyces cerevisiae	Yeast	BY4741	Whole cells
+SRR12055106	SAMN15326419	2	SRX8583520	wild-type	GSM4627282	Saccharomyces cerevisiae	Yeast	BY4741	Whole cells
+SRR12055107	SAMN15326419	2	SRX8583520	wild-type	GSM4627282	Saccharomyces cerevisiae	Yeast	BY4741	Whole cells
+SRR12055108	SAMN15326418	2	SRX8583521	wild-type	GSM4627283	Saccharomyces cerevisiae	Yeast	BY4741	Whole cells
+SRR12055109	SAMN15326418	2	SRX8583521	wild-type	GSM4627283	Saccharomyces cerevisiae	Yeast	BY4741	Whole cells
+SRR12055110	SAMN15326417	4	SRX8583522	wild-type	GSM4627284	Saccharomyces cerevisiae	Yeast	BY4741	Whole cells
+SRR12055111	SAMN15326417	4	SRX8583522	wild-type	GSM4627284	Saccharomyces cerevisiae	Yeast	BY4741	Whole cells
+SRR12055112	SAMN15326416	4	SRX8583523	wild-type	GSM4627285	Saccharomyces cerevisiae	Yeast	BY4741	Whole cells
+SRR12055113	SAMN15326416	4	SRX8583523	wild-type	GSM4627285	Saccharomyces cerevisiae	Yeast	BY4741	Whole cells
+
